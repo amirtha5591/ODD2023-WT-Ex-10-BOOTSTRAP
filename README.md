@@ -1,6 +1,5 @@
 # Ex-10-BOOTSTRAP
-Name:Niranjani.C
-Registration number:212223220069
+Name: AMIRTHAVARSHINI R.D
 ## Ex-10(a)
 ## AIM
 Create a Responsive feedback form for a virtual workshop on Constructing Modern Websites built with Bootstrap.
